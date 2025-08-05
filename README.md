@@ -1,63 +1,76 @@
-🐱 Build a Cat Photo App (freeCodeCamp HTML Project)
+# 🐱 Build a Cat Photo App (freeCodeCamp HTML Project)
 
-Introduction
+## Introduction
 
-This project is part of the Responsive Web Design Certification on freeCodeCamp.org. It focuses on building a basic web page using HTML while learning the core building blocks of the web.
+This project is part of the **Responsive Web Design Certification** on [freeCodeCamp.org](https://freecodecamp.org).  
+It focuses on building a basic web page using HTML while learning the core building blocks of the web.
 
-In this tutorial, you will create a Cat Photo App — a simple page that displays cat photos and text using clean, semantic HTML.
+You’ll create a **Cat Photo App** — a simple page that displays cat photos, captions, lists, and a form using clean, semantic HTML.
 
-✅ What You’ll Learn
+---
 
-By completing this project, you will understand how to:
+## ✅ What You’ll Learn
 
-Use basic HTML elements
+By completing this project, you’ll understand how to:
 
-Structure a page with headings, paragraphs, images, and links
+- Use basic HTML elements like `h1`, `p`, `a`, `img`, `ul`, `ol`, and `form`
+- Structure a page with headings, paragraphs, images, and links
+- Create lists and a user form with inputs and buttons
+- Add alt text for accessibility
+- Use semantic tags like `main`, `section`, `figure`, and `footer`
 
-Create lists and buttons
+These are **fundamental skills** for every front-end web developer.
 
-Add alt text for accessibility
+---
 
-Use id and class attributes
+## 📁 Files in This Project
 
-These are fundamental skills for every front-end web developer.
+- `index.html` — The main HTML file containing the structure of the Cat Photo App
 
-📁 Files in This Project
+---
 
-index.html — The main HTML file containing the structure of the Cat Photo App
+## 💻 How to Run the Project
 
-💻 How to Run the Project
+Open the `index.html` file using:
 
-You can run this project in your browser using any of the following tools:
+- The [freeCodeCamp Editor](https://freecodecamp.org/learn)
+- CodePen or Replit
+- A local code editor like VS Code (right-click → Open with browser)
 
-freeCodeCamp Editor
+---
 
-CodePen
+## 🖼️ Expected Output
 
-Replit
+When you run the app, the page should show:
 
-Any local code editor (e.g. VS Code) with the file opened in a browser
+- A large title: **CatPhotoApp**
+- A clickable image of a relaxing orange cat
+- A section listing:
+  - Things cats love (unordered list)
+  - A photo of lasagna with a caption
+  - Things cats hate (ordered list)
+  - A photo of 5 cats with a caption
+- A form that includes:
+  - Radio buttons (Indoor / Outdoor)
+  - Checkboxes (Loving / Lazy / Energetic)
+  - A required input field for a cat photo URL
+  - A submit button
+- A horizontal line (`<hr>`) separating the main content and the footer
+- A footer that says:  
+  **© Cat Photo App - Built by Scott Rasheed with freeCodeCamp**
 
-🧪 Sample Output
+---
 
-The finished project will display:
+## 🌐 Live Preview (Optional)
 
-A page title like "CatPhotoApp"
+If deployed, the live site would be here:  
+👉 `https://your-username.github.io/cat-photo-app/`
 
-A cat photo with a caption
+---
 
-A list of things cats love
+## 📚 Notes
 
-A form with a submit button
+This project is meant to help you **practice writing clean, semantic HTML**. Don’t worry about CSS or JavaScript yet. Focus on mastering the structure and intent behind each tag.
 
-🌐 Live Preview (Optional)
+Once you finish, you’ll be more confident writing raw HTML and can move on to CSS next!
 
-If you deploy the project, you can link it here:
-
-https://your-username.github.io/cat-photo-app/
-
-📚 Notes
-
-This project is meant to help you practice writing clean, semantic HTML. Don’t worry about CSS or JavaScript yet. Focus on mastering the structure and meaning of HTML elements.
-
-Once you complete this project, you’ll be ready to move on to more advanced layouts and eventually styling with CSS.
