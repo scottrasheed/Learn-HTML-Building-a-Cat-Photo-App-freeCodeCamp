@@ -58,19 +58,3 @@ When you run the app, the page should show:
 - A horizontal line (`<hr>`) separating the main content and the footer
 - A footer that says:  
   **© Cat Photo App - Built by Scott Rasheed with freeCodeCamp**
-
----
-
-## 🌐 Live Preview (Optional)
-
-If deployed, the live site would be here:  
-👉 `https://your-username.github.io/cat-photo-app/`
-
----
-
-## 📚 Notes
-
-This project is meant to help you **practice writing clean, semantic HTML**. Don’t worry about CSS or JavaScript yet. Focus on mastering the structure and intent behind each tag.
-
-Once you finish, you’ll be more confident writing raw HTML and can move on to CSS next!
-
